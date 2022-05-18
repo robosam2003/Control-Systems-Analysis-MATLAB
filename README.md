@@ -3,6 +3,7 @@ A program to quickly and easily solve and analyse second order systems
 Created by Sam Scott on 18/05/22
 
 Includes:
+
 Open loop control analysis:
 
 - Step response
