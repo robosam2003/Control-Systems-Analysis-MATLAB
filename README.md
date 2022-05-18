@@ -19,3 +19,12 @@ Closed loop control analysis:
 - Above and
 - PID controller input
 - Sensitivity analysis.
+
+
+<img src=https://github.com/robosam2003/2nd-Order-Systems-MATLAB/blob/master/resources/closedLoopFreqResponseAndGeneral2nd.jpg>
+
+<img src=https://github.com/robosam2003/2nd-Order-Systems-MATLAB/blob/master/resources/closedLoopSensitivity.jpg>
+
+<img src=https://github.com/robosam2003/2nd-Order-Systems-MATLAB/blob/master/resources/openLoopStepResponse.jpg>
+
+<img src=https://github.com/robosam2003/2nd-Order-Systems-MATLAB/blob/master/resources/openLoopStepInfo.jpg>
