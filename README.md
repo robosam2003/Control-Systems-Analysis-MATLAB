@@ -1,5 +1,6 @@
-# Second-order systems analysis
-A program to quickly and easily solve and analyse second order systems
+# Control systems analysis
+
+Programs to quickly and easily solve and analyse first and second order systems
 
 Created by Sam Scott on 18/05/22
 
